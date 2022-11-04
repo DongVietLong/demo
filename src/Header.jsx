@@ -13,7 +13,7 @@ export default function Header() {
     const [isHover, hoverConfig] = useHover(false);
     const inputElement = useRef();
 
-    const handleLogin  = () => {
+    const handleLogin = () => {
         setLogin(true);
     }
     const handleSearch = () => {
