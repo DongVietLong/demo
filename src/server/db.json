@@ -1,0 +1,1043 @@
+{
+    "menu": [
+        {
+            "id": 1,
+            "title": "Outlet",
+            "type": "typicode",
+            "children": ""
+        },
+        {
+            "id": 2,
+            "title": "Combo Tiết Kiệm",
+            "type": "typicode",
+            "children": ""
+        },
+        {
+            "id": 3,
+            "title": "Sản Phẩm",
+            "type": "hover",
+            "children": [
+                {
+                    "id": 1,
+                    "name": "Nhu cầu",
+                    "type": "ul_navbar",
+                    "item": [
+                        {
+                            "id": 1,
+                            "name": "Mặc nhà & Mặc trong",
+                            "type": "link",
+                            "istag": false,
+                            "tag": "HOT"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Homewear & Underwear",
+                            "type": "sublink",
+                            "istag": false,
+                            "tag": "HOT"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Mặc hàng ngày",
+                            "type": "link",
+                            "istag": false,
+                            "tag": "HOT"
+                        },
+                        {
+                            "id": 4,
+                            "name": "Casualwear",
+                            "type": "sublink",
+                            "istag": false,
+                            "tag": "HOT"
+                        },
+                        {
+                            "id": 5,
+                            "name": "Đồ thể thao",
+                            "type": "hot_link",
+                            "istag": true,
+                            "tag": "HOT"
+                        },
+                        {
+                            "id": 6,
+                            "name": "Activewear",
+                            "type": "sublink",
+                            "istag": false,
+                            "tag": "HOT"
+                        },
+                        {
+                            "id": 7,
+                            "name": "Phụ kiện",
+                            "type": "link",
+                            "istag": false,
+                            "tag": "HOT"
+                        },
+                        {
+                            "id": 8,
+                            "name": "Accessories",
+                            "type": "sublink",
+                            "istag": false,
+                            "tag": "HOT"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "name": "Danh mục",
+                    "type": "ul_navbar",
+                    "item": [
+                        {
+                            "id": 1,
+                            "name": "Áo nam",
+                            "type": "link",
+                            "istag": false,
+                            "tag": "HOT"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Áo Tank top",
+                            "type": "Plink",
+                            "istag": false,
+                            "tag": "HOT"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Áo T-shirt",
+                            "type": "Plink",
+                            "istag": false,
+                            "tag": "HOT"
+                        },
+                        {
+                            "id": 4,
+                            "name": "Áo polo",
+                            "type": "Plink",
+                            "istag": false,
+                            "tag": "HOT"
+                        },
+                        {
+                            "id": 5,
+                            "name": "Áo sơ mi",
+                            "type": "Plink",
+                            "istag": false,
+                            "tag": "HOT"
+                        },
+                        {
+                            "id": 6,
+                            "name": "Áo Thể Thao",
+                            "type": "Plink",
+                            "istag": false,
+                            "tag": "HOT"
+                        },
+                        {
+                            "id": 7,
+                            "name": "Áo In hình",
+                            "type": "Plink",
+                            "istag": false,
+                            "tag": "HOT"
+                        },
+                        {
+                            "id": 8,
+                            "name": "Áo khoác thể thao",
+                            "type": "Plink",
+                            "istag": false,
+                            "tag": "HOT"
+                        },
+                        {
+                            "id": 9,
+                            "name": "Phụ kiện",
+                            "type": "link",
+                            "istag": false,
+                            "tag": "HOT"
+                        },
+                        {
+                            "id": 10,
+                            "name": "Mũ (nón)",
+                            "type": "Plink",
+                            "istag": false,
+                            "tag": "HOT"
+                        },
+                        {
+                            "id": 11,
+                            "name": "Tất (vớ)",
+                            "type": "Plink",
+                            "istag": false,
+                            "tag": "HOT"
+                        },
+                        {
+                            "id": 12,
+                            "name": "Quần Nam",
+                            "type": "link",
+                            "istag": false,
+                            "tag": "HOT"
+                        },
+                        {
+                            "id": 13,
+                            "name": "Quần Shorts",
+                            "type": "link",
+                            "istag": false,
+                            "tag": "HOT"
+                        },
+                        {
+                            "id": 14,
+                            "name": "Quần Jeans",
+                            "type": "Plink",
+                            "istag": false,
+                            "tag": "HOT"
+                        },
+                        {
+                            "id": 15,
+                            "name": "Quần Dài",
+                            "type": "Plink",
+                            "istag": false,
+                            "tag": "HOT"
+                        },
+                        {
+                            "id": 16,
+                            "name": "Quần lót Nam",
+                            "type": "Plink",
+                            "istag": false,
+                            "tag": "HOT"
+                        },
+                        {
+                            "id": 17,
+                            "name": "Quần Brief (Tam giác)",
+                            "type": "Plink",
+                            "istag": false,
+                            "tag": "HOT"
+                        },
+                        {
+                            "id": 18,
+                            "name": "Quần Trunk (Boexer)",
+                            "type": "Plink",
+                            "istag": false,
+                            "tag": "HOT"
+                        },
+                        {
+                            "id": 19,
+                            "name": "Quần Brief Boxer",
+                            "type": "Plink",
+                            "istag": false,
+                            "tag": "HOT"
+                        },
+                        {
+                            "id": 20,
+                            "name": "(Boxer dài)",
+                            "type": "Plink",
+                            "istag": false,
+                            "tag": "HOT"
+                        },
+                        {
+                            "id": 21,
+                            "name": "Tất cả sản phẩm",
+                            "type": "link",
+                            "istag": false,
+                            "tag": "HOT"
+                        },
+                        {
+                            "id": 22,
+                            "name": "Box đồ nam",
+                            "type": "link",
+                            "istag": false,
+                            "tag": "HOT"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "name": "Bộ Sưu Tập",
+                    "type": "ul_navbar",
+                    "item": [
+                        {
+                            "id": 1,
+                            "name": "Vũ trụ áo Marvel",
+                            "type": "link",
+                            "istag": false,
+                            "tag": "HOT"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Ưu đãi trải nghiệm hấp dẫn",
+                            "type": "sublink",
+                            "istag": false,
+                            "tag": "HOT"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Clean VietNam",
+                            "type": "link",
+                            "istag": false,
+                            "tag": "HOT"
+                        },
+                        {
+                            "id": 4,
+                            "name": "Sự kết hợp giữa Coolmate & Vietmax",
+                            "type": "sublink",
+                            "istag": false,
+                            "tag": "HOT"
+                        },
+                        {
+                            "id": 5,
+                            "name": "Coolmate Basics",
+                            "type": "link",
+                            "istag": false,
+                            "tag": "HOT"
+                        },
+                        {
+                            "id": 6,
+                            "name": "Care & Share",
+                            "type": "sublink",
+                            "istag": false,
+                            "tag": "HOT"
+                        },
+                        {
+                            "id": 7,
+                            "name": "10% doanh thu dành cho các bé",
+                            "type": "link",
+                            "istag": false,
+                            "tag": "HOT"
+                        },
+                        {
+                            "id": 8,
+                            "name": "Sản phẩm bền vững",
+                            "type": "sublink",
+                            "istag": false,
+                            "tag": "HOT"
+                        },
+                        {
+                            "id": 9,
+                            "name": "Sản phẩm thân thiện với môi trường",
+                            "type": "link",
+                            "istag": false,
+                            "tag": "HOT"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "name": "Công nghệ",
+                    "type": "ul_navbar",
+                    "item": [
+                        {
+                            "id": 1,
+                            "name": "Excool",
+                            "type": "link",
+                            "img": "",
+                            "istag": false,
+                            "tag": "HOT"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Công nghệ làm mát tối đa",
+                            "type": "sublink",
+                            "img": "",
+                            "istag": false,
+                            "tag": "HOT"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Cleandye",
+                            "type": "link",
+                            "img": "",
+                            "istag": false,
+                            "tag": "HOT"
+                        },
+                        {
+                            "id": 4,
+                            "name": "Nhuộm không dùng nước",
+                            "type": "sublink",
+                            "img": "",
+                            "istag": false,
+                            "tag": "HOT"
+                        },
+                        {
+                            "id": 5,
+                            "name": "HeiQ Viroblock",
+                            "type": "link",
+                            "img": "",
+                            "istag": false,
+                            "tag": "HOT"
+                        },
+                        {
+                            "id": 6,
+                            "name": "Diệt 99.99% virus SARS-CoV2",
+                            "type": "sublink",
+                            "img": "",
+                            "istag": false,
+                            "tag": "HOT"
+                        },
+                        {
+                            "id": 7,
+                            "name": "Aniti-Smell",
+                            "type": "link",
+                            "img": "",
+                            "istag": false,
+                            "tag": "HOT"
+                        },
+                        {
+                            "id": 8,
+                            "name": "Công nghệ khử mùi từ nhật Bản",
+                            "type": "sublink",
+                            "img": "./src/img/Banner-Marvel-LDP_(3)_(1)_(1).jpg",
+                            "istag": false,
+                            "tag": "HOT"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Coolxprint",
+            "type": "typicode",
+            "children": ""
+        },
+        {
+            "id": 5,
+            "title": "Về Coolmate",
+            "type": "typicode",
+            "children": [
+                {
+                    "id": 1,
+                    "img": "",
+                    "title": "Coolmate 101",
+                    "describe": "Tất cả những gì bạn muốn biết về Coolmate! và gia nhập Coolmate"
+                },
+                {
+                    "id": 2,
+                    "img": "",
+                    "title": "Dịch vụ 100% hài lòng",
+                    "describe": "Bật mí 11 dịch vụ Coolmate cam kết với khách hàng"
+                },
+                {
+                    "id": 3,
+                    "img": "",
+                    "title": "Coolclub - khách hàng thân thiết",
+                    "describe": "Những ưu đãi hấp dẫn dành cho khách hàng thân thiết"
+                },
+                {
+                    "id": 4,
+                    "img": "",
+                    "title": "Câu chuyện",
+                    "describe": "Về Startup với mô hình Online D2C"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "title": "Chọn Size",
+            "type": "typicode",
+            "children": ""
+        }
+    ],
+    "Combo": [
+        {
+            "id":1,
+            "evaluate": 5,
+            "quanlity": 29,
+            "type":"trousers", 
+           "packs": "Saving packs",
+            "img1": "../src/img/combo1.jpg",
+            "img2": "../src/img/combo2.jpg",
+            "describe": "Chỉ 299k",
+            "size": [
+                "M",
+                "L",
+                "XL",
+                "2XL",
+                "3XL"
+            ],
+            "title": "Combo 02 Quần short nam thể thao Movement 5 co giãn",
+            "price": "299000",
+            "oldPrice": "399.000đ",
+            "discount": "-25%"
+        },
+        {
+            "id":2,
+            "evaluate": 4.9,
+            "quanlity": 63,
+            "type":"trousers",
+            "packs": "Saving packs",
+            "img1": "../src/img/combo3.jpg",
+            "img2": "../src/img/combo4.jpg",
+            "describe": "Chỉ 399k",
+            "size": [
+                "M",
+                "L",
+                "XL",
+                "2XL",
+                "3XL"
+            ],
+            "title": "Combo 03 Áo thun thể thao nam ProMax-S1",
+            "price": "399000",
+            "oldPrice": "537.000đ",
+            "discount": "-26%"
+        },
+        {
+            "id":3,
+            "evaluate": 4.8,
+            "quanlity": 325,
+            "type":"trousers",
+            "packs": "Saving packs",
+            "img1": "../src/img/combo5.jpg",
+            "img2": "../src/img/combo6.jpg",
+            "describe": "Chỉ 499k",
+            "size": [
+                "M",
+                "L",
+                "XL",
+                "2XL",
+                "3XL"
+            ],
+            "title": "Combo 03 Áo Polo thể thao nam ProMax-S1 Logo thoáng khí",
+            "price": "499000",
+            "oldPrice": "717.000đ",
+            "discount": "-30%"
+        },
+        {
+            "id":4,
+            "evaluate": 4.9,
+            "quanlity": 328,
+            "type":"trousers",
+            "packs": "Saving packs",
+            "img1": "../src/img/combo7.jpg",
+            "img2": "../src/img/combo8.jpg",
+            "describe": "Chỉ 299k",
+            "size": [
+                "M",
+                "L",
+                "XL",
+                "2XL",
+                "3XL"
+            ],
+            "title": "Combo 02 Quần short nam thể thao ProMax-S1 Logo thoáng khí",
+            "price": "299000",
+            "oldPrice": "399.000đ",
+            "discount": "-21%"
+        },
+        {
+            "id":5,
+            "evaluate": 4.9,
+            "quanlity": 32,
+            "type":"trousers",
+            "packs": "Saving packs",
+            "img1": "../src/img/combo2.jpg",
+            "img2": "../src/img/combo1.jpg",
+            "describe": "Chỉ 299k",
+            "size": [
+                "M",
+                "L",
+                "XL",
+                "2XL",
+                "3XL"
+            ],
+            "title": "Combo 02 Quần short nam thể thao ProMax-S1 Logo thoáng khí",
+            "price": "299000",
+            "oldPrice": "399.000đ",
+            "discount": "-21%"
+        },
+        {
+            "id":6,
+            "evaluate": 4.9,
+            "quanlity": 28,
+            "type":"trousers",
+            "packs": "Saving packs",
+            "img1": "../src/img/combo4.jpg",
+            "img2": "../src/img/combo1.jpg",
+            "describe": "Chỉ 299k",
+            "size": [
+                "M",
+                "L",
+                "XL",
+                "2XL",
+                "3XL"
+            ],
+            "title": "Combo 02 Quần short nam thể thao ProMax-S1 Logo thoáng khí",
+            "price": "299000",
+            "oldPrice": "399.000đ",
+            "discount": "-21%"
+        },
+        {
+            "id":7,
+            "evaluate": 4.9,
+            "quanlity": 28,
+            "type":"trousers",
+            "packs": "Saving packs",
+            "img1": "../src/img/combo1.jpg",
+            "img2": "../src/img/combo1.jpg",
+            "describe": "Chỉ 299k",
+            "size": [
+                "M",
+                "L",
+                "XL",
+                "2XL",
+                "3XL"
+            ],
+            "title": "Combo 02 Quần short nam thể thao ProMax-S1 Logo thoáng khí",
+            "price": "299000",
+            "oldPrice": "399.000đ",
+            "discount": "-21%"
+        }
+    ],
+    "trousers":[
+        {
+            "id":1,
+            "evaluate": 4.9,
+            "quanlity": 23,
+            "packs": "New",
+            "type":"trousers",
+            "img1": "./src/img/trouser1.jpg",
+            "img2": "./src/img/trouser2.jpg",
+            "describe": "Chỉ 299k",
+            "size": [
+                "M",
+                "L",
+                "XL",
+                "2XL",
+                "3XL"
+            ],
+            "title": "Combo 3 Quần lót Trunk vải Cotton Modal đen cạp mới",
+            "price": "279.000đ",
+            "oldPrice": "299.000đ",
+            "discount": "-7%"
+        },
+        {
+            "id":2,
+            "evaluate": 4.9,
+            "quanlity": 12,
+            "packs": "New",
+            "type":"trousers",
+            "img1": "./src/img/trouser3.jpg",
+            "img2": "./src/img/trouser4.jpg",
+            "describe": "Chỉ 299k",
+            "size": [
+                "M",
+                "L",
+                "XL",
+                "2XL",
+                "3XL"
+            ],
+            "title": "Combo 02 quần lót nam Trunk Microfiber Excool +  thoáng khí",
+            "price": "239.000đ",
+            "oldPrice": "",
+            "discount": ""
+        },
+        {
+            "id":3,
+            "evaluate": 5,
+            "quanlity": 1,
+            "packs": "Sale",
+            "type":"trousers",
+            "img1": "./src/img/trouser5.jpg",
+            "img2": "./src/img/trouser6.jpg",
+            "describe": "Chỉ 299k",
+            "size": [
+                "M",
+                "L",
+                "XL",
+                "2XL",
+                "3XL"
+            ],
+            "title": "Combo 3 Quần lót Brief vải Cotton Modal đen cạp mới",
+            "price": "159.000đ",
+            "oldPrice": "199.000đ",
+            "discount": "-20%"
+        },
+        {
+            "id":4,
+            "evaluate": 4.9,
+            "quanlity": 1746,
+            "packs": "Hot",
+            "type":"trousers",
+            "img1": "./src/img/trouser7.jpg",
+            "img2": "./src/img/trouser8.jpg",
+            "describe": "Chỉ 299k",
+            "size": [
+                "M",
+                "L",
+                "XL",
+                "2XL",
+                "3XL"
+            ],
+            "title": "Combo 3 Quần lót Trunk Bamboo kháng khuẩn",
+            "price": "299.000đ",
+            "oldPrice": "",
+            "discount": ""
+        },
+        {
+            "id":5,
+            "evaluate": 4.9,
+            "quanlity": 146,
+            "packs": "Hot",
+            "type":"trousers",
+            "img1": "./src/img/trouser5.jpg",
+            "img2": "./src/img/trouser1.jpg",
+            "describe": "Chỉ 299k",
+            "size": [
+                "M",
+                "L",
+                "XL",
+                "2XL",
+                "3XL"
+            ],
+            "title": "Combo 3 Quần lót Trunk Bamboo kháng khuẩn",
+            "price": "299.000đ",
+            "oldPrice": "",
+            "discount": ""
+        },
+        {
+            "id":6,
+            "evaluate": 4.9,
+            "quanlity": 176,
+            "packs": "Hot",
+            "type":"trousers",
+            "img1": "./src/img/trouser3.jpg",
+            "img2": "./src/img/trouser8.jpg",
+            "describe": "Chỉ 299k",
+            "size": [
+                "M",
+                "L",
+                "XL",
+                "2XL",
+                "3XL"
+            ],
+            "title": "Combo 3 Quần lót Trunk Bamboo kháng khuẩn",
+            "price": "299.000đ",
+            "oldPrice": "",
+            "discount": ""
+        }
+    ],
+    "sport":[
+        {
+            "id":1,
+            "evaluate": 4.9,
+            "quanlity": 156,
+            "packs": "",
+            "type":"trousers",
+            "img1": "./src/img/sport1.jpg",
+            "img2": "./src/img/sport2.jpg",
+            "describe": "",
+            "size": [
+                "M",
+                "L",
+                "XL",
+                "2XL",
+                "3XL"
+            ],
+            "title": "Áo sát nách thể thao nam Dri-Breathe thoáng mát tối đa",
+            "price": "189.000đ",
+            "oldPrice": "",
+            "discount": "",
+            "donate":"Mua 2 chỉ còn 159/chiếc"
+        },
+        {
+            "id":2,
+            "evaluate": 4.8,
+            "quanlity": 318,
+            "packs": "Hot",
+            "type":"trousers",
+            "img1": "./src/img/sport3.jpg",
+            "img2": "./src/img/sport4.jpg",
+            "describe": "",
+            "size": [
+                "M",
+                "L",
+                "XL",
+                "2XL",
+                "3XL"
+            ],
+            "title": "Áo Polo thể thao nam ProMax-S1 Logo thoáng khí",
+            "price": "239.000đ",
+            "oldPrice": "",
+            "discount": "",
+            "donate":"Mua 2 chỉ còn 199/chiếc"
+        },
+        {
+            "id":3,
+            "evaluate": 4.9,
+            "quanlity": 368,
+            "packs": "",
+            "type":"trousers",
+            "img1": "./src/img/sport4.jpg",
+            "img2": "./src/img/sport5.jpg",
+            "describe": "",
+            "size": [
+                "M",
+                "L",
+                "XL",
+                "2XL",
+                "3XL"
+            ],
+            "title": "Quần short nam thể thao ProMax-S1 thoáng khí",
+            "price": "189.000đ",
+            "oldPrice": "",
+            "discount": "",
+            "donate":""
+        },
+        {
+            "id":4,
+            "evaluate": 4.6,
+            "quanlity": 27,
+            "packs": "Sale",
+            "type":"trousers",
+            "img1": "./src/img/sport6.jpg",
+            "img2": "./src/img/sport7.jpg",
+            "describe": "",
+            "size": [
+                "M",
+                "L",
+                "XL",
+                "2XL",
+                "3XL"
+            ],
+            "title": "Quần Short Nam New French Terry",
+            "price": "181.000đ",
+            "oldPrice": "259.000đ",
+            "discount": "-30%",
+            "donate":""
+        },
+        {
+            "id":5,
+            "evaluate": 4.6,
+            "quanlity": 271,
+            "packs": "Sale",
+            "type":"trousers",
+            "img1": "./src/img/sport4.jpg",
+            "img2": "./src/img/sport2.jpg",
+            "describe": "",
+            "size": [
+                "M",
+                "L",
+                "XL",
+                "2XL",
+                "3XL"
+            ],
+            "title": "Quần Short Nam New French Terry",
+            "price": "181.000đ",
+            "oldPrice": "259.000đ",
+            "discount": "-30%",
+            "donate":""
+        },
+        {
+            "id":6,
+            "evaluate": 4.6,
+            "quanlity": 227,
+            "packs": "Sale",
+            "type":"trousers",
+            "img1": "./src/img/sport1.jpg",
+            "img2": "./src/img/sport3.jpg",
+            "describe": "",
+            "size": [
+                "M",
+                "L",
+                "XL",
+                "2XL",
+                "3XL"
+            ],
+            "title": "Quần Short Nam New French Terry",
+            "price": "181.000đ",
+            "oldPrice": "259.000đ",
+            "discount": "-30%",
+            "donate":""
+        }
+    ],
+    "product":[
+        {
+            "id":1,
+            "img": "./src/img/collection1.jpg",
+            "text": "Đồ Mặc Trong",
+            "type": "collection"
+        },
+        {
+            "id":2,
+            "img": "./src/img/collection2.jpg",
+            "text": "Mặc hàng ngày",
+            "type": "collection"
+        },
+        {
+            "id":3,
+            "img": "./src/img/collection3.jpg",
+            "text": "Đồ thể thao",
+            "type": "collection"
+        },
+        {
+            "id":4,
+            "img": "./src/img/collection4.jpg",
+            "text": "Tất Cả",
+            "type": "collection"
+        }
+    ],
+    "footer":[
+        {
+            "id":1,
+            "text":"Khám phá COOLMATE",
+            "type":"bold footer-hover"
+        },
+        {
+            "id":2,
+            "text":"Áo Polo",
+            "type":"light footer-hover"
+        },
+        {
+            "id":3,
+            "text":"Áo T-shirt",
+            "type":"light footer-hover"
+        }, {
+            "id":4,
+            "text":"Áo sơ mi",
+            "type":"light footer-hover"
+        }, {
+            "id":5,
+            "text":"Quần",
+            "type":"light footer-hover"
+        }, {
+            "id":6,
+            "text":"Quần lót",
+            "type":"light footer-hover"
+        }, {
+            "id":7,
+            "text":"Tất",
+            "type":"light footer-hover"
+        }, {
+            "id":8,
+            "text":"Mũ",
+            "type":"light footer-hover"
+        }, {
+            "id":9,
+            "text":"Phụ kiện khác",
+            "type":"light footer-hover"
+        }, {
+            "id":10,
+            "text":"Dịch Vụ khách hàng",
+            "type":"bold footer-hover"
+        }, {
+            "id":11,
+            "text":"Hỏi đáp",
+            "type":"light footer-hover"
+        }, {
+            "id":12,
+            "text":"Chính sách đổi trả 60 ngày",
+            "type":"light footer-hover"
+        }, {
+            "id":13,
+            "text":"Liên hệ",
+            "type":"light footer-hover"
+        }, {
+            "id":14,
+            "text":"Thành viên Coolclub",
+            "type":"light footer-hover"
+        }, {
+            "id":15,
+            "text":"Khách hàng hài lòng 100%",
+            "type":"light footer-hover"
+        }, {
+            "id":16,
+            "text":"Chính sách khuyến mãi",
+            "type":"light footer-hover"
+        }, {
+            "id":17,
+            "text":"Chính sách giao hàng",
+            "type":"light footer-hover"
+        }, {
+            "id":18,
+            "text":"Kiến thức mặc đẹp",
+            "type":"bold footer-hover"
+        }, {
+            "id":19,
+            "text":"Hướng dẫn chọn size",
+            "type":"light footer-hover"
+        }, {
+            "id":20,
+            "text":"Blog",
+            "type":"light footer-hover"
+        }, {
+            "id":21,
+            "text":"Group mặc đẹp sống chất",
+            "type":"light footer-hover"
+        }, {
+            "id":23,
+            "text":"Tài liệu - Tuyển dụng",
+            "type":"bold footer-hover"
+        }, {
+            "id":25,
+            "text":"Tuyển dụng",
+            "type":"light footer-hover"
+        }, {
+            "id":26,
+            "text":"Đăng ký bản quyền",
+            "type":"light footer-hover"
+        }, {
+            "id":27,
+            "text":"Về COOLMATE",
+            "type":"bold footer-hover"
+        }, {
+            "id":28,
+            "text":"Câu chuyện về Coolmate",
+            "type":"light footer-hover"
+        }, {
+            "id":29,
+            "text":"Nhà máy",
+            "type":"light footer-hover"
+        }, {
+            "id":30,
+            "text":"CoolClub",
+            "type":"light footer-hover"
+        }, {
+            "id":31,
+            "text":"Care & Share",
+            "type":"light footer-hover"
+        }, {
+            "id":32,
+            "text":"Địa chỉ liên hệ",
+            "type":"bold footer-hover "
+        }, {
+            "id":33,
+            "text":"HUB HÀ NỘI: Số 103, Đường Vạn Phúc, Quậ Hà Đông, TP. Hà Nội",
+            "type":"light footer-hover"
+        }, {
+            "id":34,
+            "text":"HUB Tp HCM: Lầu 1, Số 163, Trần Trọng Cung, Phường Tân Thuận Đông, Quận 7, Tp. Hồ Chí Minh",
+            "type":"light footer-hover"
+        },
+        {
+            "id":35,
+            "text":"COOLMATE lắng nghe bạn",
+            "type":"bold footer-hover "
+        },
+        {
+            "id":36,
+            "text":"Chúng tôi luôn trân tọng và mong đợi nhận được mọi ý kiến đóng góp từ khách hàng để có thể nâng cấp trải nghiệm dịch vụ và sản phẩm tốt hơn nữa",
+            "type":"light footer-hover"
+        }
+    ],
+    "Order":[
+        {
+            "id":1,
+            "img":"https://www.coolmate.me/images/icons/icon6.svg",
+            "describle":"Đổi trả cực dễ chỉ cần số điện thoại"
+        },
+        {
+            "id":2,
+            "img":"https://www.coolmate.me/images/icons/icon4.svg",
+            "describle":" Miễn phí vận chuyển  cho đơn hàng trên 200k"
+        },
+        {
+            "id":2,
+            "img":"https://www.coolmate.me/images/icons/icon5.svg",
+            "describle":"Hotline 1900.27.27.37 hỗ trợ từ 8h30 - 22h mỗi ngày"
+        },
+        {
+            "id":3,
+            "img":"https://www.coolmate.me/images/icons/icon2.svg",
+            "describle":"Đến tận nơi nhận hàng trả hoàn tiền trong 24h"
+        },
+        {
+            "id":4,
+            "img":"https://www.coolmate.me/images/icons/icon1.svg",
+            "describle":"60 ngày đổi trả vì bất kỳ lí do gì"
+        },
+        {
+            "id":5,
+            "img":"https://www.coolmate.me/images/icons/icon6.svg",
+            "describle":"Giao hàng nhanh toàn quốc"
+        }
+    ]
+}
